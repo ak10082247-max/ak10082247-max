@@ -31,7 +31,7 @@ I design, ship, and operate production-grade security, consumable data, and mone
 | :--- | :--- | :--- | :--- |
 | **[CanaryGuard 402](https://github.com/ak10082247-max/canaryguard-402)** | Deterministic prompt-injection firewall, zero-width Unicode scrubber, and wallet drain defense for autonomous agents. | [Live API](https://canaryguard-402.onrender.com) • [MCP Server](https://canaryguard-402.onrender.com/mcp) • [Apify Actor](https://apify.com/kuroxreal/canaryguard-402) | **x402 V2**: $0.010 USDC (Base & Solana)<br>**Apify PPE**: $0.003 / check |
 | **[RugShield 402](https://github.com/ak10082247-max/rugshield-402)** | Pre-swap DEX honeypot simulation, buy/sell transfer tax calculation, and pool liquidity depth verification engine. | [Live API](https://rugshield-402.onrender.com) • [Web DApp](https://ak10082247-max.github.io/rugshield-402/) • [Apify Actor](https://apify.com/kuroxreal/rugshield-402) | **x402 V2**: $0.010 USDC (Base & Solana)<br>**Apify PPE**: $0.005 / scan |
-| **[AgentFuel 402](https://github.com/ak10082247-max/agentfuel402)** | High-frequency B2B intent leads, token-optimized clean Markdown web extractor, live Shopify price/stock tracker, and live SDK specs. | [Live API](https://agentfuel402.workers.dev) • [MCP Server](https://agentfuel402.workers.dev/mcp) • [Apify Store](https://apify.com/kuroxreal) | **x402 V2**: $0.005 – $0.020 USDC<br>**Apify PPE**: $0.003 – $0.015 / event |
+| **[AgentFuel 402](https://github.com/ak10082247-max/agentfuel402)** | High-frequency B2B intent leads, token-optimized clean Markdown web extractor, live Shopify price/stock tracker, and live SDK specs. | [Live API](https://agentfuel402.ak10082247.workers.dev) • [MCP Server](https://agentfuel402.ak10082247.workers.dev/mcp) • [Apify Store](https://apify.com/kuroxreal) | **x402 V2**: $0.005 – $0.020 USDC<br>**Apify PPE**: $0.003 – $0.015 / event |
 | **[Base Trading Bot Starter](https://github.com/ak10082247-max/base-trading-bot-starter)** | Turnkey autonomous Base DEX trading bot with dry-run mode and pre-swap RugShield honeypot protection pre-wired. | [GitHub Repository](https://github.com/ak10082247-max/base-trading-bot-starter) | Open Source (Base Mainnet) |
 
 ---
@@ -58,7 +58,7 @@ All services are fully live, operational, and verified on Base Mainnet and Solan
 - **[punkpeye/awesome-remote-mcp-servers #4138](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/4138)** — CanaryGuard 402 Remote MCP Server.
 - **[punkpeye/awesome-remote-mcp-servers #4137](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/4137)** — RugShield 402 Remote MCP Server.
 - **[gmh5225/awesome-web3-security #7](https://github.com/gmh5225/awesome-web3-security/pull/7)** — RugShield 402 & CanaryGuard 402 Web3 agent security scanners.
-- **[elizaOS/eliza #35904](https://github.com/elizaOS/eliza/pull/35904)** — First-party CanaryGuard deterministic heuristic detector and wallet defense plugin.
+- **[Official MCP Registry (`io.github.ak10082247-max/agentfuel402`)](https://registry.modelcontextprotocol.io)** & **[punkpeye/awesome-mcp-servers #16339](https://github.com/punkpeye/awesome-mcp-servers/pull/16339)** — Verified live Official MCP Registry entry and merged Awesome MCP directory listing (alongside merged **[Recall-Kitchen/awesome-x402-mcp-services #149](https://github.com/Recall-Kitchen/awesome-x402-mcp-services/pull/149)**).
 - **[coinbase/agentkit #1559](https://github.com/coinbase/agentkit/pull/1559)** — CanaryGuard Action Provider for Coinbase AgentKit on Base.
 
 ---
